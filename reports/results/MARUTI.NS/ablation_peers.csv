@@ -1,0 +1,5 @@
+Model,RMSE own only (%),RMSE own + peers (%),Change (%),Peers help?,Beats predict-0 with peers?
+Elastic Net,3.3870790057243276,3.3870790057243276,0.0,no,no
+Decision Tree,3.470347171101381,3.470347171101381,0.0,no,no
+Random Forest,3.4012291935655545,3.3880485313850053,-0.013180662180549252,yes,no
+Gradient Boosting,3.420458415740852,3.384582882265725,-0.035875533475127064,yes,no

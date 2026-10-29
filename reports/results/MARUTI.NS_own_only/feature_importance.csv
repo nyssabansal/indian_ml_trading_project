@@ -1,0 +1,12 @@
+Feature,Importance,Method
+ret_5d,0.0023036035841621128,|coefficient| (scaled)
+volatility_20,0.0013149624312696168,|coefficient| (scaled)
+range_pct,0.0013125700615315037,|coefficient| (scaled)
+ma_ratio_20,0.0009980761658530107,|coefficient| (scaled)
+close_location,9.577022197392519e-05,|coefficient| (scaled)
+ret_20d,0.0,|coefficient| (scaled)
+ret_1d,0.0,|coefficient| (scaled)
+volatility_10,0.0,|coefficient| (scaled)
+ma_ratio_50,0.0,|coefficient| (scaled)
+ma_ratio_5,0.0,|coefficient| (scaled)
+volume_change,0.0,|coefficient| (scaled)

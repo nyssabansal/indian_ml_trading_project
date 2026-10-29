@@ -1,0 +1,6 @@
+Rule,Total return (%),Sharpe ratio,Max drawdown (%),Trades,Time in market (%)
+"ML, buy if forecast > 0%",-3.3511000850894423,0.03541916470712873,-33.49323345052042,1,100.0
+"ML, buy if forecast > 0.25%",-3.3511000850894423,0.03541916470712873,-33.49323345052042,1,100.0
+"ML, buy if forecast > 0.5%",0.0,,0.0,0,0.0
+"ML, buy if forecast > 1%",0.0,,0.0,0,0.0
+Buy and hold,-3.30172664959838,0.03656753807230577,-33.49323345052046,1,100.0
